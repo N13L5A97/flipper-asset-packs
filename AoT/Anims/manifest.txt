@@ -1,0 +1,87 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Armor
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: AttackTitan
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Beast
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Founder
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Hange
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Levi
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Levi2
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Mikasa
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Sasha
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: SurveyCorps
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: SurveyCorps2
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Titans
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
