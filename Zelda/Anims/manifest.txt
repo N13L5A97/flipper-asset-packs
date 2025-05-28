@@ -1,10 +1,45 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
-Name: linkAnimation
+Name: Frog
 Min butthurt: 0
 Max butthurt: 5
 Min level: 1
 Max level: 3
-Weight: 8
+Weight: 3
+
+Name: Icons
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Link
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Link2
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Sneak
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: Sparkle
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
 
